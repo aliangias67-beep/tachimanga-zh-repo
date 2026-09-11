@@ -13,7 +13,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.akuma",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/akuma/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.akuma-v1.4.10.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.akuma-v1.4.10.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104010",
@@ -189,7 +189,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.asmhentai",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/asmhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.asmhentai-v1.6.12.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.asmhentai-v1.6.12.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106012",
@@ -227,7 +227,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.comicfury",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/comicfury/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.comicfury-v1.4.8.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.comicfury-v1.4.8.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104008",
@@ -325,7 +325,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.dragonballmultiverse",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/dragonballmultiverse/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.dragonballmultiverse-v1.4.8.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.dragonballmultiverse-v1.4.8.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104008",
@@ -561,7 +561,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.hdoujin",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/hdoujin/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.hdoujin-v1.4.4.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.hdoujin-v1.4.4.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104004",
@@ -611,7 +611,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.hentai3",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/hentai3/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.hentai3-v1.6.5.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.hentai3-v1.6.5.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106005",
@@ -799,7 +799,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.hentaifox",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/hentaifox/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.hentaifox-v1.6.18.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.hentaifox-v1.6.18.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106018",
@@ -843,7 +843,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.hentaihand",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/hentaihand/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.hentaihand-v1.4.11.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.hentaihand-v1.4.11.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104011",
@@ -1061,7 +1061,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.hentairox",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/hentairox/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.hentairox-v1.6.10.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.hentairox-v1.6.10.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106010",
@@ -1099,7 +1099,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.kagane",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/kagane/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.kagane-v1.6.31.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.kagane-v1.6.31.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106031",
@@ -1221,7 +1221,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.koharu",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/koharu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.koharu-v1.4.20.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.koharu-v1.4.20.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104020",
@@ -1287,7 +1287,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.lunaranime",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/lunaranime/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.lunaranime-v1.6.0.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.lunaranime-v1.6.0.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106000",
@@ -1493,7 +1493,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.luscious",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/luscious/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.luscious-v1.4.32.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.luscious-v1.4.32.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104032",
@@ -1627,7 +1627,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.mangaball",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangaball/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.mangaball-v1.6.1.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.mangaball-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106001",
@@ -1893,7 +1893,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.mangatoon",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangatoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.mangatoon-v1.4.8.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.mangatoon-v1.4.8.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104008",
@@ -1961,7 +1961,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.myreadingmanga",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/myreadingmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.myreadingmanga-v1.4.61.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.myreadingmanga-v1.4.61.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104061",
@@ -2053,7 +2053,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.nhentaicom",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/nhentaicom/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.nhentaicom-v1.4.10.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.nhentaicom-v1.4.10.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104010",
@@ -2199,7 +2199,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.nhentaito",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/galleryadults/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.nhentaito-v1.6.10.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.nhentaito-v1.6.10.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106010",
@@ -2243,7 +2243,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.nhentaixxx",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/galleryadults/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.nhentaixxx-v1.6.11.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.nhentaixxx-v1.6.11.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106011",
@@ -2281,7 +2281,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.pandachaika",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/pandachaika/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.pandachaika-v1.4.4.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.pandachaika-v1.4.4.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104004",
@@ -2415,7 +2415,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.pixiv",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/pixiv/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.pixiv-v1.4.12.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.pixiv-v1.4.12.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104012",
@@ -2459,7 +2459,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.pornpics",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/pornpics/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.pornpics-v1.4.3.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.pornpics-v1.4.3.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104003",
@@ -2485,7 +2485,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.saymanhwa",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/saymanhwa/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.saymanhwa-v1.6.1.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.saymanhwa-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106001",
@@ -2571,7 +2571,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.simplyhentai",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/simplyhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.simplyhentai-v1.4.8.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.simplyhentai-v1.4.8.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104008",
@@ -2645,7 +2645,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.xcomic",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/xcomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.xcomic-v1.6.6.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.xcomic-v1.6.6.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106006",
@@ -3955,7 +3955,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.xkcd",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/xkcd/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-all.xkcd-v1.4.17.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.xkcd-v1.4.17.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104017",
@@ -3999,7 +3999,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.en.mangadotnet",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangadotnet/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-en.mangadotnet-v1.6.20.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-en.mangadotnet-v1.6.20.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106020",
@@ -4259,7 +4259,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.bakamh",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/bakamh/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.bakamh-v1.4.62.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.bakamh-v1.4.62.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104062",
@@ -4279,7 +4279,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.baozimanhua",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/baozimanhua/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.baozimanhua-v1.6.29.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.baozimanhua-v1.6.29.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106029",
@@ -4318,7 +4318,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.baozimhorg",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/goda/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.baozimhorg-v1.6.37.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.baozimhorg-v1.6.37.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106037",
@@ -4346,7 +4346,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.bh3",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/bh3/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.bh3-v1.4.4.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.bh3-v1.4.4.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104004",
@@ -4366,7 +4366,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.bilimanga",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/bilimanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.bilimanga-v1.6.14.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.bilimanga-v1.6.14.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106014",
@@ -4386,7 +4386,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.boylove",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/boylove/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.boylove-v1.4.18.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.boylove-v1.4.18.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104018",
@@ -4410,7 +4410,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.cartoon18",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/cartoon18/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.cartoon18-v1.4.4.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.cartoon18-v1.4.4.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104004",
@@ -4430,7 +4430,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.comicabc",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/comicabc/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.comicabc-v1.4.4.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.comicabc-v1.4.4.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104004",
@@ -4450,7 +4450,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.dm5",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/dm5/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.dm5-v1.4.10.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.dm5-v1.4.10.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104010",
@@ -4474,7 +4474,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.dumanwu",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/dumanwu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.dumanwu-v1.4.2.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.dumanwu-v1.4.2.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104002",
@@ -4494,7 +4494,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.eighteenmanhua",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/eighteenmanhua/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.eighteenmanhua-v1.6.3.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.eighteenmanhua-v1.6.3.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106003",
@@ -4514,7 +4514,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.favcomic",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/favcomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.favcomic-v1.6.2.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.favcomic-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -4540,7 +4540,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.guazimanhua",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/guazimanhua/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.guazimanhua-v1.6.6.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.guazimanhua-v1.6.6.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106006",
@@ -4560,7 +4560,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.hanabimanga",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/hanabimanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.hanabimanga-v1.6.2.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.hanabimanga-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -4580,7 +4580,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.hanime1",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/hanime1/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.hanime1-v1.4.3.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.hanime1-v1.4.3.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104003",
@@ -4600,7 +4600,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.hanman18",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/manga18/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.hanman18-v1.4.3.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.hanman18-v1.4.3.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104003",
@@ -4620,7 +4620,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.hcomic",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/hcomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.hcomic-v1.6.2.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.hcomic-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -4640,7 +4640,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.hentaiclub",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/hentaiclub/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.hentaiclub-v1.4.3.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.hentaiclub-v1.4.3.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104003",
@@ -4660,7 +4660,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.hikarinagi",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/hikarinagi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.hikarinagi-v1.6.1.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.hikarinagi-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106001",
@@ -4680,7 +4680,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.ikmmh",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/ikmmh/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.ikmmh-v1.6.1.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.ikmmh-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106001",
@@ -4700,7 +4700,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.jcomic",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/jcomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.jcomic-v1.6.2.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.jcomic-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -4720,7 +4720,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/jinmantiantang/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.jinmantiantang-v1.4.58.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.jinmantiantang-v1.4.58.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104058",
@@ -4740,7 +4740,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.jiuermanhua",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/jiuermanhua/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.jiuermanhua-v1.4.15.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.jiuermanhua-v1.4.15.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104015",
@@ -4760,7 +4760,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.komiic",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/komiic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.komiic-v1.6.10.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.komiic-v1.6.10.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106010",
@@ -4784,7 +4784,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.mangabz",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/mangabz/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.mangabz-v1.4.15.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.mangabz-v1.4.15.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104015",
@@ -4809,7 +4809,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.mangaxiaosi",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/mangaxiaosi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.mangaxiaosi-v1.4.1.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.mangaxiaosi-v1.4.1.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104001",
@@ -4829,7 +4829,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.manhuadui",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/manhuadui/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.manhuadui-v1.4.32.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.manhuadui-v1.4.32.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104032",
@@ -4849,7 +4849,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.manhuagui",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/manhuagui/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.manhuagui-v1.4.28.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.manhuagui-v1.4.28.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104028",
@@ -4875,7 +4875,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.manhuaren",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/manhuaren/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.manhuaren-v1.4.19.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.manhuaren-v1.4.19.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104019",
@@ -4895,7 +4895,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.manhuashe",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/manhuashe/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.manhuashe-v1.6.1.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.manhuashe-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106001",
@@ -4919,7 +4919,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.manhuawu",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/manhuawu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.manhuawu-v1.4.9.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.manhuawu-v1.4.9.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104009",
@@ -4939,7 +4939,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.manwa",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/manwa/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.manwa-v1.4.31.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.manwa-v1.4.31.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104031",
@@ -4959,7 +4959,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.mh1234",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/mh1234/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.mh1234-v1.6.5.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.mh1234-v1.6.5.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106005",
@@ -4979,7 +4979,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.miaoqu",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/miaoqu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.miaoqu-v1.4.8.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.miaoqu-v1.4.8.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104008",
@@ -4999,7 +4999,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.mycomic",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/mycomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.mycomic-v1.4.4.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.mycomic-v1.4.4.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104004",
@@ -5019,7 +5019,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.nnhanman",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/nnhanman/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.nnhanman-v1.6.1.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.nnhanman-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106001",
@@ -5039,7 +5039,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.picacomic",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/picacomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.picacomic-v1.6.11.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.picacomic-v1.6.11.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106011",
@@ -5059,7 +5059,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.roumanwu",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/roumanwu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.roumanwu-v1.4.20.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.roumanwu-v1.4.20.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104020",
@@ -5083,7 +5083,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.rumanhua",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/rumanhua/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.rumanhua-v1.4.5.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.rumanhua-v1.4.5.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104005",
@@ -5103,7 +5103,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.sixmh",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/sixmh/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.sixmh-v1.4.16.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.sixmh-v1.4.16.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104016",
@@ -5123,7 +5123,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.terrahistoricus",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/terrahistoricus/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.terrahistoricus-v1.4.4.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.terrahistoricus-v1.4.4.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104004",
@@ -5143,7 +5143,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.tongli",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/tongli/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.tongli-v1.4.1.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.tongli-v1.4.1.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104001",
@@ -5163,7 +5163,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.toptoon",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/toptoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.toptoon-v1.4.2.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.toptoon-v1.4.2.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104002",
@@ -5183,7 +5183,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.vomic",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/vomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.vomic-v1.4.6.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.vomic-v1.4.6.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104006",
@@ -5203,7 +5203,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.wnacg",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/wnacg/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.wnacg-v1.6.0.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.wnacg-v1.6.0.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106000",
@@ -5223,7 +5223,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.yidan",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/yidan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.yidan-v1.4.5.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.yidan-v1.4.5.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104005",
@@ -5243,7 +5243,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.zaimanhua",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/zaimanhua/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.zaimanhua-v1.4.19.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.zaimanhua-v1.4.19.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104019",
@@ -5263,7 +5263,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.zazhimi",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/zazhimi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.zazhimi-v1.4.2.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.zazhimi-v1.4.2.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104002",
@@ -5283,7 +5283,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.zh.zerobyw",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/zerobyw/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "jar/tachiyomi-zh.zerobyw-v1.4.21.jar"
+          "jarUrl": "https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.zerobyw-v1.4.21.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104021",
