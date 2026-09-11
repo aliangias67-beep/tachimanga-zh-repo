@@ -1,0 +1,227 @@
+Akuma v1.4.10
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.akuma-v1.4.10.jar
+
+AsmHentai v1.6.12
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.asmhentai-v1.6.12.jar
+
+Comic Fury v1.4.8
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.comicfury-v1.4.8.jar
+
+Dragon Ball Multiverse v1.4.8
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.dragonballmultiverse-v1.4.8.jar
+
+HDoujin v1.4.4
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.hdoujin-v1.4.4.jar
+
+3Hentai v1.6.5
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.hentai3-v1.6.5.jar
+
+HentaiFox v1.6.18
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.hentaifox-v1.6.18.jar
+
+HentaiHand v1.4.11
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.hentaihand-v1.4.11.jar
+
+HentaiRox v1.6.10
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.hentairox-v1.6.10.jar
+
+Kagane v1.6.31
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.kagane-v1.6.31.jar
+
+SchaleNetwork v1.4.20
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.koharu-v1.4.20.jar
+
+Lunar Manga v1.6.0
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.lunaranime-v1.6.0.jar
+
+Luscious v1.4.32
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.luscious-v1.4.32.jar
+
+Manga Ball v1.6.1
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.mangaball-v1.6.1.jar
+
+MangaToon (Limited) v1.4.8
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.mangatoon-v1.4.8.jar
+
+MyReadingManga v1.4.61
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.myreadingmanga-v1.4.61.jar
+
+nHentai.com (unoriginal) v1.4.10
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.nhentaicom-v1.4.10.jar
+
+NHentai.to v1.6.10
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.nhentaito-v1.6.10.jar
+
+NHentai.xxx v1.6.11
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.nhentaixxx-v1.6.11.jar
+
+PandaChaika v1.4.4
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.pandachaika-v1.4.4.jar
+
+Pixiv v1.4.12
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.pixiv-v1.4.12.jar
+
+PornPics v1.4.3
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.pornpics-v1.4.3.jar
+
+SayManhwa v1.6.1
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.saymanhwa-v1.6.1.jar
+
+Simply Hentai v1.4.8
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.simplyhentai-v1.4.8.jar
+
+XCOMIC v1.6.6
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.xcomic-v1.6.6.jar
+
+xkcd v1.4.17
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-all.xkcd-v1.4.17.jar
+
+Mangadotnet v1.6.20
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-en.mangadotnet-v1.6.20.jar
+
+Baka Manhua v1.4.62
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.bakamh-v1.4.62.jar
+
+Baozi Manhua v1.6.29
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.baozimanhua-v1.6.29.jar
+
+GoDa v1.6.37
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.baozimhorg-v1.6.37.jar
+
+BH3 v1.4.4
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.bh3-v1.4.4.jar
+
+BiliManga v1.6.14
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.bilimanga-v1.6.14.jar
+
+BoyLove v1.4.18
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.boylove-v1.4.18.jar
+
+Cartoon18 v1.4.4
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.cartoon18-v1.4.4.jar
+
+Comicabc v1.4.4
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.comicabc-v1.4.4.jar
+
+Dm5 v1.4.10
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.dm5-v1.4.10.jar
+
+Dumanwu v1.4.2
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.dumanwu-v1.4.2.jar
+
+18Manhua v1.6.3
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.eighteenmanhua-v1.6.3.jar
+
+FavComic v1.6.2
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.favcomic-v1.6.2.jar
+
+Guazimanhua v1.6.6
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.guazimanhua-v1.6.6.jar
+
+HanabiManga v1.6.2
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.hanabimanga-v1.6.2.jar
+
+Hanime1 v1.4.3
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.hanime1-v1.4.3.jar
+
+HANMAN18 v1.4.3
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.hanman18-v1.4.3.jar
+
+H-Comic v1.6.2
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.hcomic-v1.6.2.jar
+
+Shenshi Huisuo v1.4.3
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.hentaiclub-v1.4.3.jar
+
+Hikarinagi v1.6.1
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.hikarinagi-v1.6.1.jar
+
+Ikmmh v1.6.1
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.ikmmh-v1.6.1.jar
+
+JComic v1.6.2
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.jcomic-v1.6.2.jar
+
+Jinman Tiantang v1.4.58
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.jinmantiantang-v1.4.58.jar
+
+92Manhua v1.4.15
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.jiuermanhua-v1.4.15.jar
+
+Komiic v1.6.10
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.komiic-v1.6.10.jar
+
+Mangabz v1.4.15
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.mangabz-v1.4.15.jar
+
+Manga Xiao Si v1.4.1
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.mangaxiaosi-v1.4.1.jar
+
+YKMH v1.4.32
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.manhuadui-v1.4.32.jar
+
+ManHuaGui v1.4.28
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.manhuagui-v1.4.28.jar
+
+Manhuaren v1.4.19
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.manhuaren-v1.4.19.jar
+
+Manhuashe v1.6.1
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.manhuashe-v1.6.1.jar
+
+Manhuawu v1.4.9
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.manhuawu-v1.4.9.jar
+
+Manwa (修正版) v1.4.31
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.manwa-v1.4.31.jar
+
+MH1234 v1.6.5
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.mh1234-v1.6.5.jar
+
+Miaoqu Manhua v1.4.8
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.miaoqu-v1.4.8.jar
+
+MyComic v1.4.4
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.mycomic-v1.4.4.jar
+
+NNHanman v1.6.1
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.nnhanman-v1.6.1.jar
+
+Picacomic v1.6.11
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.picacomic-v1.6.11.jar
+
+Roumanwu v1.4.20
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.roumanwu-v1.4.20.jar
+
+Rumanhua v1.4.5
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.rumanhua-v1.4.5.jar
+
+6Manhua v1.4.16
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.sixmh-v1.4.16.jar
+
+Terra Historicus v1.4.4
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.terrahistoricus-v1.4.4.jar
+
+Tongli v1.4.1
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.tongli-v1.4.1.jar
+
+Toptoon.net v1.4.2
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.toptoon-v1.4.2.jar
+
+vomic v1.4.6
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.vomic-v1.4.6.jar
+
+WNACG v1.6.0
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.wnacg-v1.6.0.jar
+
+Yidan Girl v1.4.5
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.yidan-v1.4.5.jar
+
+Zaimanhua v1.4.19
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.zaimanhua-v1.4.19.jar
+
+Zazhimi v1.4.2
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.zazhimi-v1.4.2.jar
+
+Zerobyw v1.4.21
+https://raw.githubusercontent.com/aliangias67-beep/tachimanga-zh-repo/main/jar/tachiyomi-zh.zerobyw-v1.4.21.jar
